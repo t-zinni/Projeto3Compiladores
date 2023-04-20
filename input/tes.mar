@@ -11,4 +11,5 @@ print 3 <= 3;
 print 3 >= 1;
 print "ola";
 print "ola" + "teste";
+print "ola" + "a";
 
